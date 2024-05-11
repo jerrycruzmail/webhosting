@@ -16,7 +16,7 @@
 
 
 # [3 – Bluehost](https://www.bluehost.com/special/homenew?clickid=zW9UY20ysxyKW%3AgTiS3kHR5yUkHQl2QZq3w2xU0&irgwc=1&pb=&irpid=2402558&utm_medium=affiliate&utm_affiliate=&utm_affiliate_sys=IR&siteid=46095037&iradid=795082&utm_source=IR&utm_campaign=CrazyEgg.com&channelid=P61C46097236S645N0B2A1D0E0000V100) 
-    — Best For New WordPress Users
+ — Best For New WordPress Users
 
 
 ![image](https://github.com/jerrycruzmail/webhosting/assets/169523598/69a2f7d0-82d5-434e-8cb0-fb6d7b929b3a)
